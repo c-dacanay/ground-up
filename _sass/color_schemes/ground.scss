@@ -1,0 +1,24 @@
+@import "./color_schemes/light";
+@import "./support/_variables";
+
+$base-light: #fbf4e7;
+
+$link-color: $green-300;
+$nav-child-link-color: $green-200;
+$sidebar-color: $base-light;
+$btn-primary-color: $green-100;
+$code-background-color: $base-light !important;
+$feedback-color: darken($sidebar-color, 6%);
+
+$border-color: #e0d9d9;
+
+.site-header {
+    min-width: 280px !important;
+}
+
+h2,
+.text-beta,
+#toctitle {
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
