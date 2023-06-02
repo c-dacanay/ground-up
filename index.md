@@ -8,7 +8,7 @@ I'm coming up on 10 years in Brooklyn. Many flora and fauna have found a way to 
 
 #### Criteria
 - Articles should be educational but casual
-- Articles should be written for a general audience
+- Articles should have **local information** written for a general audience
 - Articles should be surprising or delightful <code>(fun facts! nice drawings!)</code>
 
 #### Constraints
