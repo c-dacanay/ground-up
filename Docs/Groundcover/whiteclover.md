@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 title: White Clover
 parent: Groundcover
@@ -24,4 +24,4 @@ While I was growing up clover was considered a weed, but nowadays many people ar
 [^2]: [Invasive Plant Atlas of the United States](https://www.invasiveplantatlas.org/subject.html?sub=6557)
 [^3]: [The Spruce: White Clover](https://www.thespruce.com/growing-white-clover-trifolium-repens-5101230)
 [^4]: [Share the Luck](https://web.archive.org/web/20201205113712/http://www.sharetheluck.ch/single-post/How-rare-are-four-leaf-clovers-really)
-[^5]: [Planet Natural Research Center: Lawn History](https://www.planetnatural.com/organic-lawn-care-101/history/)
+[^5]: [Planet Natural Research Center: Lawn History](https://www.planetnatural.com/organic-lawn-care-101/history/) -->

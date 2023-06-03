@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pill Bug
-parent: Insects
+title: American Robin
+parent: Birds
 nav_exclude: true
 ---
