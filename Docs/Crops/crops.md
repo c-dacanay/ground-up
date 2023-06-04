@@ -5,8 +5,8 @@ has_children: true
 nav_order: 5
 # has_toc: false
 ---
-<!-- # Crops
-Crops are plants that we cultivate, aka: domesticated plants. We have domesticated these crops just like dogs: sometimes they're bred for beauty, other times they're bred to work. Naturally it's much simpler and faster to genetically modify a plant than a mammal. There are only about 200 recognized dog breeds, but there are more than 10,000 tomato cultivars on the market![^1] 
+# Crops
+Crops are plants that we cultivate, aka: domesticated plants. These plants have shaped and been shaped by human evolution much like dogs: sometimes they're bred for beauty, other times they're bred to work. Naturally it's much simpler and faster to genetically modify a plant than a mammal. There are only about 200 recognized dog breeds, but there are more than 10,000 tomato cultivars on the market![^1] 
 
 ## GMOs vs. Hybrids vs. Heirlooms
 A genetically modified organism (GMO) is an animal, plant, or microbe whose DNA has been altered using genetic engineering techniques. If you hand-pollinate a hot pepper and a sweet pepper and end up with seeds from a strangely spicy bell, you've *technically* created a GMO. In the gardening world, though, that's just a hybrid. In Joseph Tychonievich’s book *Plant Breeding for the Home Gardener* he describes an important distinction: “Traditional breeding introduces genetic diversity by bringing together all genes of two individuals, most of which have nothing to do with specific breeding aims. Genetic engineering instead inserts only one gene, one specific section of new DNA, into a single individual’s genome…”[^2]
@@ -21,4 +21,4 @@ A genetically modified organism (GMO) is an animal, plant, or microbe whose DNA 
 #### references & further reading
 [^1]: [Homegrown: Selecting the Best Tomato Varieties for Your Garden](https://web.archive.org/web/20211004213719/https://homegrown.extension.ncsu.edu/2021/09/selecting-the-best-tomato-varieties-for-your-garden/)
 [^2]: [Planet Natural Research Center: Hybrids, GMOs: Not the Same](https://www.planetnatural.com/hybrid-gmo/)
-[^3]: [Epic Gardening: Seeds Explained](https://www.youtube.com/watch?v=Edk7cYBsXgc) -->
+[^3]: [Epic Gardening: Seeds Explained](https://www.youtube.com/watch?v=Edk7cYBsXgc)
