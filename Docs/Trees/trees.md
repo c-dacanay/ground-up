@@ -4,7 +4,7 @@ layout: default
 has_children: true
 nav_order: 6
 ---
-<!-- # Trees and Shrubs
+# Trees and Shrubs
 A friend once said that it's much easier to identify trees in a forest than it is in New York City. A limited number of species thrive in any particular habitat, and when seeds drop onto the forest floor they most likely came from a nearby parent. In cities we ship trees and shrubs from all over to beautify the few patches of green between sidewalks and concrete. There are trees native to the US, Spain, Norway and Japan on my one block in Brooklyn alone. 
 
 Like all city-things, tree are registered residents! There's a fun [New York City tree map](https://tree-map.nycgovparks.org/tree-map/) where you can check on recent tree care activities in your neighborhood. Hilariously all trees also have a "Total Value of Annual Benefits" that calculates dollar amounts of how much each tree saves the city in stormwater management and energy conservation. The Kentucky yellowwood outside my apartment produced $34.49 last year—good job I guess? 
@@ -16,4 +16,4 @@ When I lived in Baltimore the easiest way to tell if a neighborhood was affluent
 -----
 #### references & further reading
 [^1]: [American Planning Association: Trees in the City](https://www.planning.org/pas/reports/report236.htm)
-[^2]: [Code Red: The Role of Trees](https://cnsmaryland.org/interactives/summer-2019/code-red/role-of-trees.html) -->
+[^2]: [Code Red: The Role of Trees](https://cnsmaryland.org/interactives/summer-2019/code-red/role-of-trees.html)
