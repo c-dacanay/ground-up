@@ -10,7 +10,7 @@ If you look up "Animals in NYC" the parks department mentiones coyotes, deer, an
 
 I can't help but feel an affinity toward the rats, pigeons, feral cats, and raccoons. We go about our days and we mind our own business, and we love the food. The city suits us. 
 
-Still, it's a idealistic to say that animals simply moved in to cities because it suits them. Species found in urban ecosystems are called *synurbic*, and *synurbization* refers to the effects of urbanization on the adaptaion of wildlife.[^1] As cities expanded the local wildlife's range shrank. For every animal that adapted to or even preferred the concrete jungle, countless others could not.
+Still, it's a idealistic to say that animals simply moved in to cities because it suits them. Species found in urban ecosystems are called *synurbic*, and *synurbization* refers to the effects of urbanization on the adaptaion of wildlife.[^1] As cities expanded the local wildlife's range shrank. For every animal that adapted to the concrete jungle, countless others could not.
 
 Humans usually don't love animals that make themselves too known in cities. We've "gone to war" on emus, crows, sparrows, spotted lantern flies, you name it. These wars tend not to deter our clever neighbors for long. The mayor of NYC recently appointed a rat czar to reduce the city's rat population.[^2] Surely the rats will respect the czar.
 
