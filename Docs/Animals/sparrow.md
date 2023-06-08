@@ -2,7 +2,7 @@
 layout: default
 title: House Sparrow
 parent: Birds
-nav_exclude: true
+# nav_exclude: true
 ---
 
 # House Sparrow *(passer domesticus)*
