@@ -1,7 +1,7 @@
 ---
 layout: default
 title: House Sparrow
-parent: Birds
+parent: Animals
 # nav_exclude: true
 ---
 
