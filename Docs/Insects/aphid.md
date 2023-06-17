@@ -8,7 +8,7 @@ Ah, aphids. If you know a gardener they have probably complained about aphids at
 
 These small insects feed on plant sap, so they can reduce the strength of the plant and make them more succeptible to plant viruses. As they eat they excrete a sugar-rich sap called honeydew. Ants, and sometimes bees, can feed on this honeydew! Some species of ants even farm aphids, protecting them from preadatory animals and taking their eggs back to the colony to overwinter so they can be deposted onto new growth in the spring.[^2]
 
-Aphid reproduction, however troublesome for gardeners, is fanscinating. They're clonal, meaning they're descended from a single female parthenogenetically and share an identical genome. An aphid can birth 60-100 live nymphs in a single day, and many of those nymphs may already be pregnant! Scientists call this adaptation *telescoping generations*, because an aphid can be developing its grandchild before it's child is even born![^3]
+Aphid reproduction, however troublesome for gardeners, is fanscinating. They're clonal, meaning they're descended from a single female parthenogenetically and share an identical genome. An aphid can birth 60-100 live nymphs in a single day, and many of those nymphs may already be pregnant! Scientists call this adaptation *telescoping generations*, because an aphid can be developing its grandchild before its child is even born![^3]
 
 ### Aphid Control
 Aphid infestation can actually be a useful indication that your soil is too fertilized. Gardeners tend to feed their plants lots of nitrogen to encourage fast, leafy growth. Aphids *love* the nitrogen heavy sap as well. 
