@@ -16,3 +16,11 @@ I'm coming up on 10 years in Brooklyn. Many flora and fauna have found a way to 
 - Research does not count as a day. There must be interpretation.
 - I can write, doodle, take photos, and go on field trips in any combination
 - Honestly I'm taking it easy on this one.
+
+#### Todos: 
+- Soil: Worm, Fungi
+- Trees: Princess Tree
+- Groundcover: Chickweed, Oxalis
+- Herbs & Flowers: Snapdragon, Gypsophilia 
+- Crops: Bush Beans
+- Animals: Mourning Dove, American Robin

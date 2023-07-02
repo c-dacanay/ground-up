@@ -14,3 +14,13 @@ Farmers and gardeners usually categorize insects into pollinators, beneficials, 
 ---
 #### references & further reading
 [^1]: [American Museum of Natural History: Ask a Scientist](https://www.amnh.org/explore/ology/earth/ask-a-scientist-about-our-environment/which-animal-group-has-the-most-organisms#:~:text=There%20are%20more%20than%201,of%20all%20known%20living%20species!)
+
+
+##### todo
+- hoverfly
+- pill bugs
+- painted lady butterfly (in june)
+- bees
+    - sweat bees
+    - bumble bees
+    - 
