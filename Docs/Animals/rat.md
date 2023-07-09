@@ -2,7 +2,7 @@
 title: Rat
 layout: default
 parent: Animals
-nav_exclude: true
+# nav_exclude: true
 ---
 
 # Brown Rat *(rattus norvegicus)*
