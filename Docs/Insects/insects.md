@@ -23,4 +23,3 @@ Farmers and gardeners usually categorize insects into pollinators, beneficials, 
 - bees
     - sweat bees
     - bumble bees
-    - 
