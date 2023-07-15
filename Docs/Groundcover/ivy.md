@@ -20,5 +20,5 @@ Ivies are of major ecological importance due to their nectar and fruit productio
 
 -----
 #### references & further reading
-[^2]: [Woodland Trust: Ivy](https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/plants/wild-flowers/ivy/)
-[^3]: [Online Etymology Dictionary: Ivy](https://www.etymonline.com/word/ivy#etymonline_v_12296)
+[^1]: [Woodland Trust: Ivy](https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/plants/wild-flowers/ivy/)
+[^2]: [Online Etymology Dictionary: Ivy](https://www.etymonline.com/word/ivy#etymonline_v_12296)
