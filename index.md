@@ -28,7 +28,17 @@ I'm coming up on 10 years in Brooklyn. Many flora and fauna have found a way to 
 
 
 ## Books on Gardening
-**In Progress:** The New Organic Grower, Eliot Coleman
+
+### ⭐️ The New Organic Grower, Eliot Coleman
+This was such an enjoyable read; I'll also probably buy this one if I find it again! While the book was very for market farmers who are looking to make a sustainable business from growing there's much to learn from Coleman's wisdom for the backyard gardener. I will never own cows or be able to practice ley farming, but I can practice a crop rotation to best enrich my soil over the years. You can tell that growing has fully permeated the way he experiences the world, nature, and people. There are some real metaphors to live by that are well outlined in this book. 
+
+- He describes nature as a beautiful complex tapestry with an enormous number of people trying to decipher and solve problems that only exist on the back side of the tapestry. "They have no idea that there is a front side, and when you mention it you can tell they don't believe you. From where they stand, they can't see the elegance of the natural world. The vagueness of the backside has convinced them that the planet is poorly designed for food production and needs a great deal of help from humankind to figure it out." [2]
+- The backside people prove ecologist Frank Egler's statement, "Nature is not more complicated than we think. Nature is more complicated than we can think." [2]
+- "The second explanation [of why organic farming ideas have been consistently ignored by the majority of agricultural sciences] is that humans cannot imagine a world where they are not in charge. As a biological farmer, I work in partnership with Nature, and I am a very junior partner... My level of trust in the design of the natural world and willingness to be guided by it is discomforting to those who think we should exercise total power of Nature." [11]
+- One Percenters are crops that, when introduced into rotations, can improve yield, growth, and vigor by one percent. "The amount might not be worth considering to some, but the importance of these one percenters is that they are cumulative."[55]
+- Incredible examples for crop rotations and why on page 56.
+- "Soil Microbiology, Selman Waksman's classic text influenced my approach to soil fertility more than any other source. His information oepened my eyes to the marvelous world of living organizmz under our feet and to the importance of organic matter for the well-being of that world."[87]
+- "I have been keenly aware of just how wide this gulf between theory and practice can be... I pay close attention to everything published, read all I can... Yet my conclusion after 50 years of experience is that most of the research is not of practical use to me. The explanation is simple. The goals of science and my goals as a farmer are vastly different. The science of agriculture is concerned with understanding the mechanism; it is problem oriented. The craft of agriculture is concerned with practical application; it is solution oriented. In other words, science asks why, but the farmer asks how... I am not uninterested in why things work. I use my understanding of the mechanisms every day to organize my farm operation. But that knowledge does not help me when I need to get my hands dirty... At present the science of agriculture is providing us with too much head information and not enough hand information. All of the hand information that I value is coming from other sources." [223]
 
 ### ⭐️ How to Grow More Vegetables, John Jeavons
 I'll keep an eye out for this book in stores. It was written in the 70s out of [Ecology Acton's Grow Biointensive](http://www.growbiointensive.org/), after environmentalists and ecologists began pushing back on methods of industrial farming that dominated American food production. It covers everything from soil, sustainability practices, to extremely detailed master planting charts. It's rather inspirational to see that many ideas in this book have permeated into common knowledge for anyone with even a passing interest in organic gardening.
@@ -55,8 +65,14 @@ This readable overview of soil has good recommendations for how to test, build, 
 "In the wild, plants are able to uptake sufficient phosphorus as the result of a partnership with microscopic fungi known as mycorrhizae. The mycorrhizal fungi in essence extend plant roots into much more distant and smaller cracks in the soil matrix than the host plants could ever dream of colonizing on their own. In the process, fungi suck up hard-to-find phosphorus along with other plant-friendly minerals like zinc and copper. Then, as a thank you for the mycorrhizae's hard work, the host plant feed their mycorrhizal partners with plenty of sugars that fungi couldn't readily create on their own."
 
 **Further Reading and Recommended Resources:**
+- Soil Microbiology, Selman Waksman
 - Teaming with Microbes, Jeff Lowenfels and Wayne Lewis
 - The Garden Seed Inventory, Ken Wealey
 - Roots: Miracles Below, Charles Morrow Wilson
 - Weeds and What They Tell Us, Ehrenfried E. Pfeiffer
 - Grow Your Soil: www.growyoursoil.com
+**Recommended Seed Sources:**
+- Johnny's Select Seeds
+- High Mowing Organic Seeds
+- Fedco Seeds
+- Harris Seeds
