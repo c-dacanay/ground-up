@@ -2,7 +2,7 @@
 layout: default
 title: Princess Tree
 parent: Trees and Shrubs
-nav_exclude: true
+# nav_exclude: true
 ---
 # Princess Tree *(Paulownia tomentosa)*
 
