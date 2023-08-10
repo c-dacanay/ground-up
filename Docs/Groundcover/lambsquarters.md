@@ -3,7 +3,7 @@ title: Lambs Quarters
 layout: default
 parent: Groundcover
 ---
-
+![Lamb's Quarters](/Docs/images/lambsquarters.png)
 # Lamb's Quarters *(chenopodium album)*
 
 Lamb's quarters is an annual so-called weed. They go by many names—white goosefoot, fat hen, melde, pigweed, wild spinach—and many of their names reference the soft white fur on their spring shoots. Its most common name is in reference to the English harvest festival *Lammas quarters*, named for this plant's growth and associated with sacraficial lambs. The alternate leaves look like goose feet, hence its other nickname goosefoot! 
