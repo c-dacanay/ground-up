@@ -4,7 +4,7 @@ parent: Insects
 layout: default
 # nav_exclude: true
 ---
-
+![Green Darner](/Docs/images/queenbutterfly.png)
 # Painted Lady Butterfly *(Vanessa cardui)*
 As soon as breezy, mild May gave way to a muggy June these butterflies began sporatically visiting my humble garden. They perched from clover to clover before visiting the flowering thai basil. Butterflies are a rare sight in NYC; I don't recall seeing any outside the forested paths of Prospect Park. At first I thought it was a Monarch due to its flashy white, black, and orange coloring, but the ventral sides of its wings were stark enough to set it apart. 
 

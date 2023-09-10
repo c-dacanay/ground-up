@@ -3,7 +3,7 @@ layout: default
 title: Zinnia
 parent: Herbs and Flowers
 ---
-
+![Green Darner](/Docs/images/zinnia.png)
 # Zinnia 
 
 Zinnia is a genus of plant that are native to North America with a centre of diversity in Mexico. These long-stemmed annual plants come in a variety of bright colors and are a standard flower in many home gardens due to how easy they are to grow. They also tend to attract hummingbirds and butterflies with their bright, twelve-petaled blooms.

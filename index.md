@@ -1,5 +1,5 @@
 ---
-title: 🏠 HOME 
+title: 🏠 Home
 layout: home
 ---
 
@@ -25,7 +25,6 @@ I'm coming up on 10 years in Brooklyn. Many flora and fauna have found a way to 
 - Crops: Bush Beans
 - Animals: Mourning Dove, American Robin -->
 ---
-
 
 ## Books on Gardening
 

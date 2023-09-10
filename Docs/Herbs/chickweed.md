@@ -3,7 +3,7 @@ layout: default
 title: Chickweed
 parent: Herbs and Flowers
 ---
-
+![Green Darner](/Docs/images/chickweed.png)
 # Chickweed *(stellaria media)*
 
 This annual member of the carnation family gets its name because it was a preferred feed for chicken and other birds.[^1] It is native to Eurasia but has been naturalized all over the world. Its small white flowers have 5 bifid petals that emerge from (usually) 5 green sepals, giving them a cheerful sunburst shape. While it is commonly considered undesirable in a lawn or garden chickweed has had many uses as a food and medicine. 

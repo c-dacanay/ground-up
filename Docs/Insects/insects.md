@@ -5,7 +5,6 @@ has_children: true
 nav_order: 3
 ---
 # Insects
-![Green Darner](/Docs/images/darner.png)
 This is a silly thing to say, but until I started a garden I had forgotten just how many bugs there are. There are only a few you need to remember in city living: the good ones (fireflies, butertflies), bad ones (mosquitos, fruit flies), and very bad ones (cockroaches, bed bugs). Now I look at a single tomato plant and see like 12 new guys! Who are they?!
 
 There are about 1 million insect species that have been documented and studied, meaning that they currently≈ represent 40% of all known living species. Scientists estimate that there may actually be between 10 and 30 million species of insects on the planet.[^1]
